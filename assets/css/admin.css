@@ -1,0 +1,5 @@
+@media (min-width: 1120px) {
+    .ocdi__gl-item {
+        flex: 0 0 calc(25% - 30px);
+    }
+}

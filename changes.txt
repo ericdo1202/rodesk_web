@@ -1,0 +1,88 @@
+v4.3.2 - 19 December, 2022
+- Improved demo data import system.
+
+
+v4.3.1 - 30 November, 2022
+- New Back to Top Scroll Button feature.
+- New Call to Action Header Button Control Settings
+- Updated outdated Woocommerce file.
+
+
+v4.3.0 - 08 November, 2022
+- Added Quiety Insurance Demo
+- Added Sass Marketing Demo
+
+
+v4.2.0 - 14 September, 2022
+- Added Digital Marketing Demo
+- Added Conference & Event Demo
+
+
+v4.1.0 - 08 September, 2022
+- Added Payment Gateway Demo
+
+
+v4.0.5 - 23th July, 2022
+- Updated outdated Woocommerce file.
+- Bug Fixed.
+
+
+v4.0.4 - 2nd July, 2022
+- Added Game Solutions Demo
+
+
+v4.0.3 - 27th Jun, 2022
+- Bug fixed and code cleanup.
+
+
+v4.0.2 – 8th Jun, 2022
+- Added the job apply button.
+
+
+v4.0.1 – 31th May, 2022
+- Fixed the demo import issue due to the WordPress version change.
+
+
+v4.0.0 – 12th Apr, 2022
+- Added Crypto Currency Demo.
+
+
+v3.6.0 – 2nd Apr, 2022
+- Added support for the Elememotor 3.6.1 version.
+
+
+v3.5.5 – 14th Mar, 2022
+- Added the Cyber Security Demo.
+
+
+v3.5.1 – 20th Feb, 2022
+- Fixed the Woocommerence issue.
+
+
+v3.5.0 – 20th Jan, 2022
+- Added the IT Demo
+- Added word count settings in the blog.
+
+
+v3.1.0 – 21st Dec, 2021
+- Added the Blog Grid.
+- Added the Child Theme.
+- Updated the Demo Settings.
+
+
+v3.0.0 – 14th Dec, 2021
+- Added the app landing demo.
+
+
+v2.5.0 – 10th Dec, 2021
+- Changed Bootstrap version from 4 to 5.
+- Given Woocommerce support.
+
+
+v2.1.0 – 30th Nov, 2021
+- Added the RTL version.
+
+
+v2.0.0 – 28th Nov, 2021
+- Added demo 4.
+- Initial released
